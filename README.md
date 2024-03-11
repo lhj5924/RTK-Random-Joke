@@ -9,4 +9,4 @@ You can see random Joke by selecting Category or click 'Random!' button. In this
 
 ## Image
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/deeacc64-1184-46b3-b242-a46d95bf4790/1ba2fb26-ff09-443c-9c10-f770d05b9dc4/Untitled.png)
+![image](https://github.com/lhj5924/RTK-Random-Joke/assets/76608100/05989925-02ae-4398-b6f4-7038fcf54ac0)
